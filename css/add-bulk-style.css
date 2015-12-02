@@ -1,0 +1,17 @@
+.add_bulk_related_container .left_section{ width:50%; float:left; padding:0 10px 0 0; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+.add_bulk_related_container .right_section{ width:50%; float:left; padding:0 0 0 10px; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+
+.add_bulk_related_container #products,
+.add_bulk_related_container #products_2,
+.add_bulk_related_container #selected-products,
+.add_bulk_related_container #selected-products-2
+{ height:auto !important; max-height:200px; overflow:auto !important; width:100% !important; margin:0px; padding:0px;}
+
+.add_bulk_related_container .row{ clear:both; padding:10px 0;}
+.add_bulk_related_container .col-md-12.control-label{ font-weight:700; padding:10px 0;}
+
+.manage_bulk_related_container .row{ clear:both; padding:10px 0;}
+.manage_bulk_related_container #manage_products,
+.manage_bulk_related_container #fetch-related-products
+{ height:auto !important; max-height:200px; overflow:auto !important; width:100% !important; margin:0px; padding:0px;}
+.manage_bulk_related_container .col-md-12.control-label{ font-weight:700; padding:10px 0;}
